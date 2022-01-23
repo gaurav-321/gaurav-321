@@ -12,11 +12,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 2 hours gaming and 8 hours coding every day.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub Pythoneer](https://github.com/gaurav-321/)
-[![website]]
-
 
 **Languages and Tools:**  
 
