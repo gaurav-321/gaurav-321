@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hola, I'm [Gaurav Verma!]() 👋
 
-<!--
-**gaurav-321/gaurav-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-321&label=Views&color=blue&style=plastic" alt="gaurav-321" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working in Python and C#.
+- 🌱 I’m currently learning more about BlockChain and android apps.
+- 👯 I’m uploading my codes on [Youtube](https://www.youtube.com/channel/UCSRhJd7e187XA9It6GetXRw).
+- 💬 Ask me about Flask, Automation, Python, or any tech-related stuff.
+- 📫 How to reach me: [Instagram - gag3301v](https://www.instagram.com/gag3301v/) , [Youtube - @Pythoneer](https://www.youtube.com/channel/UCSRhJd7e187XA9It6GetXRw)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 2 hours gaming and 8 hours coding every day.
+
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub Pythoneer](https://github.com/gaurav-321/)
+[![website]]
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<a href="https://github.com/gaurav-321">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-321&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/gaurav-321">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-321&show_icons=true&theme=light&line_height=27" alt="Pythoneer's github stats"/>
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
