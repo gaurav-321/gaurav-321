@@ -1,4 +1,4 @@
-## Hola, I'm [Shikha Verma!]() 👋
+## Hola, I'm [Gaurav Verma!]() 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-321&label=Views&color=blue&style=plastic" alt="gaurav-321" /> </p>
 
