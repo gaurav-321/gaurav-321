@@ -33,15 +33,19 @@
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 <a href="https://github.com/gaurav-321">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-321&theme=light&hide_langs_below=1" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-321&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/gaurav-321">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-321&show_icons=true&theme=light&line_height=27" alt="Pythoneer's GitHub stats"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gaurav-321&show_icons=true&theme=tokyonight&line_height=27" alt="Gaurav's GitHub stats" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=gaurav-321&margin-w=15&theme=flat" alt="GitHub Trophies" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=gaurav-321&theme=tokyonight&margin-w=10&column=7" alt="GitHub Trophies" />
 </a>
+
+</div>
 
 ---
 
