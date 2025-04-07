@@ -41,6 +41,8 @@
 <a href="https://github.com/gaurav-321">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gaurav-321&show_icons=true&theme=tokyonight&line_height=27" alt="Gaurav's GitHub stats" />
 </a>
+<br>
+<br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=gaurav-321&theme=tokyonight&margin-w=10&column=7" alt="GitHub Trophies" />
 </a>
