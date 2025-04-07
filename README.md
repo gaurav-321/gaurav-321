@@ -39,6 +39,9 @@
 <a href="https://github.com/gaurav-321">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-321&show_icons=true&theme=light&line_height=27" alt="Pythoneer's GitHub stats"/>
 </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=gaurav-321&margin-w=15&theme=flat" alt="GitHub Trophies" />
+</a>
 
 ---
 
