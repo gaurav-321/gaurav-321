@@ -22,31 +22,39 @@
 
 ### 🛠️ Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=gaurav-321&theme=tokyonight&margin-w=10&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/gaurav-321">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-321&layout=compact&theme=tokyonight" />
-</a>
-<a href="https://github.com/gaurav-321">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gaurav-321&show_icons=true&theme=tokyonight&line_height=27" alt="Gaurav's GitHub stats" />
-</a>
-<br>
-<br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=gaurav-321&theme=tokyonight&margin-w=10&column=7" alt="GitHub Trophies" />
-</a>
-
+  <a href="https://github.com/gaurav-321">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-321&layout=compact&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/gaurav-321">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gaurav-321&show_icons=true&theme=tokyonight&line_height=27" alt="Gaurav's GitHub stats" />
+  </a>
 </div>
 
 ---
