@@ -1,4 +1,4 @@
-## Hola, I'm [Gaurav Verma!]() 👋
+## Gaurav Verma
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gaurav-321&label=Views&color=blue&style=plastic" alt="gaurav-321" />
@@ -8,31 +8,28 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working with **Python** and **C#**.
-- 🌱 Learning more about **Blockchain** development and **Android apps**.
-- 🎥 Uploading tech content and tutorials on [YouTube](https://www.youtube.com/channel/UCSRhJd7e187XA9It6GetXRw).
-- 💬 Ask me anything about **Flask**, **Automation**, **Python**, or any tech-related topic!
-- 📫 Reach me on:
-  - [Instagram (@gag3301v)](https://www.instagram.com/gag3301v/)
-  - [YouTube (@Pythoneer)](https://www.youtube.com/channel/UCSRhJd7e187XA9It6GetXRw)
-- 😄 Pronouns: **He/His**
-- ⚡ Fun fact: I spend almost **2 hours gaming** and **8 hours coding** every day.
+I'm Gaurav Verma, a tech enthusiast with a passion for programming and learning new technologies. Currently working with Python and C#, I'm expanding my knowledge in Blockchain development and Android app creation. You can follow me on YouTube to watch tech content and tutorials.
+
+Feel free to ask me anything about Flask, Automation, Python, or any tech-related topic! Reach out to me via Instagram (@gag3301v) or YouTube (@Pythoneer).
+
+😄 Pronouns: He/His
+
+⚡ Fun fact: I spend almost 2 hours gaming and 8 hours coding every day.
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+- Python
+- C#
+- Blockchain Development
+- Android App Development
+- JavaScript
+- Vue.js
+- Node.js
+- HTML
+- CSS
+- MySQL
 
 ---
 
@@ -70,4 +67,3 @@
 ### Show some ❤️ by starring some of my repositories!
 
 </div>
-
